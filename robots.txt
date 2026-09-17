@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://paul-demey.github.io/sitemap.xml
+Sitemap: https://paul-demey.github.io//sitemap.xml
