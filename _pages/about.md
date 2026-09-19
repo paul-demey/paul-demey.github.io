@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: A propos
 permalink: /
 subtitle: Consultant chez <a href="https://www.hiram-finance.com" target="_blank">Hiram Finance</a>
 
