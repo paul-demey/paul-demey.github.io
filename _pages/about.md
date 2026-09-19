@@ -34,10 +34,10 @@ latest_posts:
   <li>Finance de marché</li>
 </ul>
 
-Contact : 
-<p style="text-align: left; font-size: 2rem;">
-  <a href="https://www.linkedin.com/in/paul-demey-75719b4/" target="_blank" rel="noopener" title="LinkedIn">
-    <i class="fab fa-linkedin" style="color: #0A66C2;"></i>
-  </a>
-</p>
+# Contact : 
+# <p style="text-align: left; font-size: 2rem;">
+#  <a href="https://www.linkedin.com/in/paul-demey-75719b4/" target="_blank" rel="noopener" title="LinkedIn">
+#    <i class="fab fa-linkedin" style="color: #0A66C2;"></i>
+#  </a>
+# </p>
 
