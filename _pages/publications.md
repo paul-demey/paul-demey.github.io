@@ -8,7 +8,9 @@ nav: true
 nav_order: 2
 ---
 
-<style>
+
+<div class="publications">
+  <style>
   /* Affiche l'abstract en permanence */
   .publications ol.bibliography li div.abstract.hidden {
     max-height: none !important;
@@ -23,7 +25,6 @@ nav_order: 2
   }
 </style>
 
-<div class="publications">
 <!-- ================= CATEGORIE 1 : ALM ================= -->
 
   <h2 class="category" style="margin-top: 2rem; border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.5rem;">ALM</h2>
