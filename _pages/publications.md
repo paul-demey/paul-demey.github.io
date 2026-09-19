@@ -1,12 +1,14 @@
-
 ---
 layout: page
-permalink: /publications/
 title: publications
+permalink: /publications/
 description: 
 nav: true
 nav_order: 2
+display_categories: [ALM, Gestion d'actifs]
+horizontal: false
 ---
+
 
 
 <div class="publications">
