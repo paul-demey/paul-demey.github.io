@@ -4,17 +4,15 @@ title: Simulateur ALM
 description: Simulation interactive de gestion actif-passif
 img: assets/img/simulation.jpg
 importance: 3
-category: ALM
+category: simulations
 ---
 
-<iframe
-  src="https://simulateur-alm.onrender.com/"
-  style="width: 100%; height: 80vh; min-height: 600px; border: 0;"
-  loading="lazy"
-  title="Simulateur ALM">
-</iframe>
+Ce simulateur permet de simuler un bilan bancaire, et de calculer les indicateurs classiques..
 
-<p>
-  Le simulateur peut mettre une minute à démarrer lors de la première visite.
-  <a href="https://simulateur-alm.onrender.com/" target="_blank" rel="noopener">Ouvrir en plein écran</a>
+<p style="margin-top: 2rem;">
+  <a class="btn btn-primary btn-lg" href="https://simulateur-alm.onrender.com/" target="_blank" rel="noopener">
+    Ouvrir le simulateur dans un nouvel onglet
+  </a>
 </p>
+
+<p><small>Le simulateur peut mettre une minute à démarrer lors de la première visite.</small></p>
