@@ -33,6 +33,16 @@ latest_posts:
 </ul>
 
 Contact : 
+<style>
+  /* Icône LinkedIn en bleu officiel */
+  .social a[href*="linkedin.com"] i,
+  .contact-icons a[href*="linkedin.com"] i,
+  i.fa-linkedin,
+  i.fa-linkedin-in {
+    color: #0A66C2 !important;
+  }
+</style>
+
 <p style="text-align: left; font-size: 2rem;">
   <a href="https://www.linkedin.com/in/paul-demey-75719b4/" target="_blank" rel="noopener" title="LinkedIn">
     <i class="fab fa-linkedin"></i>
