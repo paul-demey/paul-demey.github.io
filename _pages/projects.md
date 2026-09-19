@@ -2,12 +2,20 @@
 layout: page
 title: Projets
 permalink: /projects/
-description: En développement...
+description: 
 nav: true
 nav_order: 3
 display_categories: [ALM]
 horizontal: false
 ---
+<style>
+  /* Vignette des projets plus petite */
+  .projects .card img {
+    height: 140px !important;
+    width: 100% !important;
+    object-fit: cover;
+  }
+</style>
 <script>
   document.addEventListener('DOMContentLoaded', function () {
     document.querySelectorAll('a[href^="https://simulateur-alm.onrender.com"]').forEach(function (a) {
