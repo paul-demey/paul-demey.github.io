@@ -39,6 +39,6 @@ horizontal: false
   
   <!-- ================= CATEGORIE 2 : Credit ================= -->
   <h2 class="category" style="margin-top: 2rem; border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.5rem;">Risque de crédit</h2>
-{% bibliography -q @*[keywords=Credit]* %}
+{% bibliography -q @*[keywords=credit]* %}
   
 </div>
