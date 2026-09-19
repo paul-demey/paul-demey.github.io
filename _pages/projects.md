@@ -8,6 +8,14 @@ nav_order: 3
 display_categories: [ALM]
 horizontal: false
 ---
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('a[href^="https://simulateur-alm.onrender.com"]').forEach(function (a) {
+      a.target = '_blank';
+      a.rel = 'noopener';
+    });
+  });
+</script>
 
 <!-- pages/projects.md -->
 <div class="projects">
