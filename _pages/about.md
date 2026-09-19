@@ -24,10 +24,11 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Expertise en
-\begin{itemize}
-\item Gestion actif-passif
-\item Gestion d'actif quantitative
-\item Finance de marché
-\end{itemize}
+<p>Expertise en :</p>
+
+<ul>
+  <li>Gestion actif-passif</li>
+  <li>Gestion d'actif quantitative</li>
+  <li>Finance de marché</li>
+</ul>
 
