@@ -10,20 +10,7 @@ nav_order: 2
 
 
 <div class="publications">
-  <style>
-  /* Affiche l'abstract en permanence */
-  .publications ol.bibliography li div.abstract.hidden {
-    max-height: none !important;
-    overflow: visible !important;
-    display: block !important;
-    margin-top: 0.5rem;
-  }
 
-  /* Masque le bouton "Abs", devenu inutile */
-  .publications ol.bibliography li a.abstract {
-    display: none !important;
-  }
-</style>
 
 <!-- ================= CATEGORIE 1 : ALM ================= -->
 
