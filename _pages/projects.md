@@ -9,12 +9,12 @@ display_categories: [ALM]
 horizontal: false
 ---
 <style>
-  /* Vignette des projets plus petite */
-  .projects .card img {
-    height: 140px !important;
-    width: 100% !important;
-    object-fit: cover;
-  }
+.projects .card img {
+  width: 70% !important;
+  height: auto !important;
+  display: block;
+  margin: 1rem auto 0;
+}
 </style>
 <script>
   document.addEventListener('DOMContentLoaded', function () {
