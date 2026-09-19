@@ -1,3 +1,13 @@
+
+---
+layout: page
+permalink: /publications/
+title: publications
+description: 
+nav: true
+nav_order: 2
+---
+
 <style>
   /* Affiche l'abstract en permanence */
   .publications ol.bibliography li div.abstract.hidden {
@@ -12,16 +22,6 @@
     display: none !important;
   }
 </style>
-
----
-layout: page
-permalink: /publications/
-title: publications
-description: 
-nav: true
-nav_order: 2
----
-
 
 <div class="publications">
 <!-- ================= CATEGORIE 1 : ALM ================= -->
