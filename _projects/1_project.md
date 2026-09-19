@@ -4,7 +4,7 @@ title: Simulateur ALM
 description: Simulation interactive de gestion actif-passif
 img: assets/img/simulation.jpg
 importance: 3
-category: simulations
+category: ALM
 ---
 
 Ce simulateur permet de simuler un bilan bancaire, et de calculer les indicateurs classiques..
