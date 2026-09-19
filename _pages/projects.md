@@ -2,7 +2,7 @@
 layout: page
 title: Projets
 permalink: /projects/
-description: 
+description: En développement...
 nav: true
 nav_order: 3
 display_categories: [ALM]
